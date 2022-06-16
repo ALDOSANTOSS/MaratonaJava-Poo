@@ -1,4 +1,6 @@
-package Introduçãoclasses;
+package Introduçãoclasses.aula01;
+
+import Introduçãoclasses.aula01.Caneta01;
 
 public class Caneta01Test {
 

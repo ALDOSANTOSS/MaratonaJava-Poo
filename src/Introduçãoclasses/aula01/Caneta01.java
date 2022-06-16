@@ -1,4 +1,4 @@
-package Introduçãoclasses;
+package Introduçãoclasses.aula01;
 
 public class Caneta01 {
     String modelo;

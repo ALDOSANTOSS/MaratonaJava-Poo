@@ -17,15 +17,13 @@ public class Carro {
 
     void emMovimento() {
 
-        if (this.andando == true){
+        if (this.andando == true) {
 
             System.out.println("Veiculo em movimento");
 
         } else {
             System.out.println("Esta parado");
         }
-
-
 
     }
 
