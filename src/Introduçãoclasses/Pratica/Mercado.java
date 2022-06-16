@@ -8,7 +8,7 @@ public class Mercado {
     protected int feijao;
 
     public void vender() {
-        System.out.println("Venda" + feijao);
+        System.out.println("Venda" + this.feijao);
 
     }
 
