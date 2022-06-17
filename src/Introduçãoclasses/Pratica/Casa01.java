@@ -9,7 +9,7 @@ public class Casa01 {
         c1.setSala("TV");
         c1.setQuarto("Casal");
 
-        System.out.println("Minha casa com" + c1.getSala() + "Meu quarto"  + c1.getQuarto());
+        System.out.println("Minha casa com " + c1.getSala() + " Meu quarto "  + c1.getQuarto());
     }
 
 
