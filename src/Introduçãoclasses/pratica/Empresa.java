@@ -1,8 +1,8 @@
-package Introduçãoclasses.Pratica;
+package Introduçãoclasses.pratica;
 
 public class Empresa {
 
-    public String trabalo;
+    public String trabalho;
     private String rh;
     protected String refeitorio;
 

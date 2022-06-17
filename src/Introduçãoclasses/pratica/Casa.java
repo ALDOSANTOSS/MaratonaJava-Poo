@@ -1,4 +1,4 @@
-package Introduçãoclasses.Pratica;
+package Introduçãoclasses.pratica;
 
 public class Casa {
 
