@@ -1,12 +1,11 @@
 package Introduçãoclasses.pratica01;
 
-public class ContaBanco {
+public class ContaBanco01 {
 
     public int numConta;
     protected String tipo;
     private String dono;
     private float saldo;
-
     private boolean status;
     private boolean abrir;
     private boolean retirar;
@@ -14,7 +13,7 @@ public class ContaBanco {
     private Float valorMensal;
 
 
-    public void abrirConta() {
+    public void abrirConta(String cc) {
         this.abrir = true;
 
     }
@@ -24,7 +23,7 @@ public class ContaBanco {
 
     }
 
-    public void depositarConta() {
+    public void depositar() {
         this.retirar = true;
 
     }
@@ -69,5 +68,8 @@ public class ContaBanco {
 
     public void setSaldo(Float saldo) {
         this.saldo = saldo;
+    }
+
+    public void estadoAtual() {
     }
 }
